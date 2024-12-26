@@ -1,0 +1,5 @@
+{
+    "dashboard_greeting": "Welcome to the dashboard",
+    "keyWithCount": "{{count}} item",
+    "keyWithCount_other": "{{count}} items"
+}

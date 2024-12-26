@@ -1,0 +1,6 @@
+{
+    "watch": ["resources/js", "resources/views"],
+    "ext": "js,ts,jsx,tsx,vue,php",
+    "exec": "npm run build:ssr && php artisan inertia:start-ssr",
+    "delay": 600
+}
